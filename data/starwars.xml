@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root encoding="UTF-8">
+  <record>
+    <name>Luke Skywalker</name>
+    <height>172</height>
+    <mass>77</mass>
+    <hair_color>blond</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>blue</eye_color>
+    <birth_year>19</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Tatooine</homeworld>
+    <species>Human</species>
+    <films>list(c("The Empire Strikes Back", "Revenge of the Sith", "Return of the Jedi", "A New Hope", "The Force Awakens"))</films>
+    <vehicles>list(c("Snowspeeder", "Imperial Speeder Bike"))</vehicles>
+    <starships>list(c("X-wing", "Imperial shuttle"))</starships>
+  </record>
+  <record>
+    <name>C-3PO</name>
+    <height>167</height>
+    <mass>75</mass>
+    <skin_color>gold</skin_color>
+    <eye_color>yellow</eye_color>
+    <birth_year>112</birth_year>
+    <sex>none</sex>
+    <gender>masculine</gender>
+    <homeworld>Tatooine</homeworld>
+    <species>Droid</species>
+    <films>list(c("The Empire Strikes Back", "Attack of the Clones", "The Phantom Menace", "Revenge of the Sith", "Return of the Jedi", "A New Hope"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>R2-D2</name>
+    <height>96</height>
+    <mass>32</mass>
+    <skin_color>white, blue</skin_color>
+    <eye_color>red</eye_color>
+    <birth_year>33</birth_year>
+    <sex>none</sex>
+    <gender>masculine</gender>
+    <homeworld>Naboo</homeworld>
+    <species>Droid</species>
+    <films>list(c("The Empire Strikes Back", "Attack of the Clones", "The Phantom Menace", "Revenge of the Sith", "Return of the Jedi", "A New Hope", "The Force Awakens"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Darth Vader</name>
+    <height>202</height>
+    <mass>136</mass>
+    <hair_color>none</hair_color>
+    <skin_color>white</skin_color>
+    <eye_color>yellow</eye_color>
+    <birth_year>41.9</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Tatooine</homeworld>
+    <species>Human</species>
+    <films>list(c("The Empire Strikes Back", "Revenge of the Sith", "Return of the Jedi", "A New Hope"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list("TIE Advanced x1")</starships>
+  </record>
+  <record>
+    <name>Leia Organa</name>
+    <height>150</height>
+    <mass>49</mass>
+    <hair_color>brown</hair_color>
+    <skin_color>light</skin_color>
+    <eye_color>brown</eye_color>
+    <birth_year>19</birth_year>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <homeworld>Alderaan</homeworld>
+    <species>Human</species>
+    <films>list(c("The Empire Strikes Back", "Revenge of the Sith", "Return of the Jedi", "A New Hope", "The Force Awakens"))</films>
+    <vehicles>list("Imperial Speeder Bike")</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Owen Lars</name>
+    <height>178</height>
+    <mass>120</mass>
+    <hair_color>brown, grey</hair_color>
+    <skin_color>light</skin_color>
+    <eye_color>blue</eye_color>
+    <birth_year>52</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Tatooine</homeworld>
+    <species>Human</species>
+    <films>list(c("Attack of the Clones", "Revenge of the Sith", "A New Hope"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Beru Whitesun lars</name>
+    <height>165</height>
+    <mass>75</mass>
+    <hair_color>brown</hair_color>
+    <skin_color>light</skin_color>
+    <eye_color>blue</eye_color>
+    <birth_year>47</birth_year>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <homeworld>Tatooine</homeworld>
+    <species>Human</species>
+    <films>list(c("Attack of the Clones", "Revenge of the Sith", "A New Hope"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>R5-D4</name>
+    <height>97</height>
+    <mass>32</mass>
+    <skin_color>white, red</skin_color>
+    <eye_color>red</eye_color>
+    <sex>none</sex>
+    <gender>masculine</gender>
+    <homeworld>Tatooine</homeworld>
+    <species>Droid</species>
+    <films>list("A New Hope")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Biggs Darklighter</name>
+    <height>183</height>
+    <mass>84</mass>
+    <hair_color>black</hair_color>
+    <skin_color>light</skin_color>
+    <eye_color>brown</eye_color>
+    <birth_year>24</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Tatooine</homeworld>
+    <species>Human</species>
+    <films>list("A New Hope")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list("X-wing")</starships>
+  </record>
+  <record>
+    <name>Obi-Wan Kenobi</name>
+    <height>182</height>
+    <mass>77</mass>
+    <hair_color>auburn, white</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>blue-gray</eye_color>
+    <birth_year>57</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Stewjon</homeworld>
+    <species>Human</species>
+    <films>list(c("The Empire Strikes Back", "Attack of the Clones", "The Phantom Menace", "Revenge of the Sith", "Return of the Jedi", "A New Hope"))</films>
+    <vehicles>list("Tribubble bongo")</vehicles>
+    <starships>list(c("Jedi starfighter", "Trade Federation cruiser", "Naboo star skiff", "Jedi Interceptor", "Belbullab-22 starfighter"))</starships>
+  </record>
+  <record>
+    <name>Anakin Skywalker</name>
+    <height>188</height>
+    <mass>84</mass>
+    <hair_color>blond</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>blue</eye_color>
+    <birth_year>41.9</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Tatooine</homeworld>
+    <species>Human</species>
+    <films>list(c("Attack of the Clones", "The Phantom Menace", "Revenge of the Sith"))</films>
+    <vehicles>list(c("Zephyr-G swoop bike", "XJ-6 airspeeder"))</vehicles>
+    <starships>list(c("Trade Federation cruiser", "Jedi Interceptor", "Naboo fighter"))</starships>
+  </record>
+  <record>
+    <name>Wilhuff Tarkin</name>
+    <height>180</height>
+    <hair_color>auburn, grey</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>blue</eye_color>
+    <birth_year>64</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Eriadu</homeworld>
+    <species>Human</species>
+    <films>list(c("Revenge of the Sith", "A New Hope"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Chewbacca</name>
+    <height>228</height>
+    <mass>112</mass>
+    <hair_color>brown</hair_color>
+    <skin_color>unknown</skin_color>
+    <eye_color>blue</eye_color>
+    <birth_year>200</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Kashyyyk</homeworld>
+    <species>Wookiee</species>
+    <films>list(c("The Empire Strikes Back", "Revenge of the Sith", "Return of the Jedi", "A New Hope", "The Force Awakens"))</films>
+    <vehicles>list("AT-ST")</vehicles>
+    <starships>list(c("Millennium Falcon", "Imperial shuttle"))</starships>
+  </record>
+  <record>
+    <name>Han Solo</name>
+    <height>180</height>
+    <mass>80</mass>
+    <hair_color>brown</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>brown</eye_color>
+    <birth_year>29</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Corellia</homeworld>
+    <species>Human</species>
+    <films>list(c("The Empire Strikes Back", "Return of the Jedi", "A New Hope", "The Force Awakens"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(c("Millennium Falcon", "Imperial shuttle"))</starships>
+  </record>
+  <record>
+    <name>Greedo</name>
+    <height>173</height>
+    <mass>74</mass>
+    <skin_color>green</skin_color>
+    <eye_color>black</eye_color>
+    <birth_year>44</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Rodia</homeworld>
+    <species>Rodian</species>
+    <films>list("A New Hope")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Jabba Desilijic Tiure</name>
+    <height>175</height>
+    <mass>1358</mass>
+    <skin_color>green-tan, brown</skin_color>
+    <eye_color>orange</eye_color>
+    <birth_year>600</birth_year>
+    <sex>hermaphroditic</sex>
+    <gender>masculine</gender>
+    <homeworld>Nal Hutta</homeworld>
+    <species>Hutt</species>
+    <films>list(c("The Phantom Menace", "Return of the Jedi", "A New Hope"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Wedge Antilles</name>
+    <height>170</height>
+    <mass>77</mass>
+    <hair_color>brown</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>hazel</eye_color>
+    <birth_year>21</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Corellia</homeworld>
+    <species>Human</species>
+    <films>list(c("The Empire Strikes Back", "Return of the Jedi", "A New Hope"))</films>
+    <vehicles>list("Snowspeeder")</vehicles>
+    <starships>list("X-wing")</starships>
+  </record>
+  <record>
+    <name>Jek Tono Porkins</name>
+    <height>180</height>
+    <mass>110</mass>
+    <hair_color>brown</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>blue</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Bestine IV</homeworld>
+    <species>Human</species>
+    <films>list("A New Hope")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list("X-wing")</starships>
+  </record>
+  <record>
+    <name>Yoda</name>
+    <height>66</height>
+    <mass>17</mass>
+    <hair_color>white</hair_color>
+    <skin_color>green</skin_color>
+    <eye_color>brown</eye_color>
+    <birth_year>896</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <species>Yoda's species</species>
+    <films>list(c("The Empire Strikes Back", "Attack of the Clones", "The Phantom Menace", "Revenge of the Sith", "Return of the Jedi"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Palpatine</name>
+    <height>170</height>
+    <mass>75</mass>
+    <hair_color>grey</hair_color>
+    <skin_color>pale</skin_color>
+    <eye_color>yellow</eye_color>
+    <birth_year>82</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Naboo</homeworld>
+    <species>Human</species>
+    <films>list(c("The Empire Strikes Back", "Attack of the Clones", "The Phantom Menace", "Revenge of the Sith", "Return of the Jedi"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Boba Fett</name>
+    <height>183</height>
+    <mass>78.2</mass>
+    <hair_color>black</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>brown</eye_color>
+    <birth_year>31.5</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Kamino</homeworld>
+    <species>Human</species>
+    <films>list(c("The Empire Strikes Back", "Attack of the Clones", "Return of the Jedi"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list("Slave 1")</starships>
+  </record>
+  <record>
+    <name>IG-88</name>
+    <height>200</height>
+    <mass>140</mass>
+    <hair_color>none</hair_color>
+    <skin_color>metal</skin_color>
+    <eye_color>red</eye_color>
+    <birth_year>15</birth_year>
+    <sex>none</sex>
+    <gender>masculine</gender>
+    <species>Droid</species>
+    <films>list("The Empire Strikes Back")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Bossk</name>
+    <height>190</height>
+    <mass>113</mass>
+    <hair_color>none</hair_color>
+    <skin_color>green</skin_color>
+    <eye_color>red</eye_color>
+    <birth_year>53</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Trandosha</homeworld>
+    <species>Trandoshan</species>
+    <films>list("The Empire Strikes Back")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Lando Calrissian</name>
+    <height>177</height>
+    <mass>79</mass>
+    <hair_color>black</hair_color>
+    <skin_color>dark</skin_color>
+    <eye_color>brown</eye_color>
+    <birth_year>31</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Socorro</homeworld>
+    <species>Human</species>
+    <films>list(c("The Empire Strikes Back", "Return of the Jedi"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list("Millennium Falcon")</starships>
+  </record>
+  <record>
+    <name>Lobot</name>
+    <height>175</height>
+    <mass>79</mass>
+    <hair_color>none</hair_color>
+    <skin_color>light</skin_color>
+    <eye_color>blue</eye_color>
+    <birth_year>37</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Bespin</homeworld>
+    <species>Human</species>
+    <films>list("The Empire Strikes Back")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Ackbar</name>
+    <height>180</height>
+    <mass>83</mass>
+    <hair_color>none</hair_color>
+    <skin_color>brown mottle</skin_color>
+    <eye_color>orange</eye_color>
+    <birth_year>41</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Mon Cala</homeworld>
+    <species>Mon Calamari</species>
+    <films>list(c("Return of the Jedi", "The Force Awakens"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Mon Mothma</name>
+    <height>150</height>
+    <hair_color>auburn</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>blue</eye_color>
+    <birth_year>48</birth_year>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <homeworld>Chandrila</homeworld>
+    <species>Human</species>
+    <films>list("Return of the Jedi")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Arvel Crynyd</name>
+    <hair_color>brown</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>brown</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <species>Human</species>
+    <films>list("Return of the Jedi")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list("A-wing")</starships>
+  </record>
+  <record>
+    <name>Wicket Systri Warrick</name>
+    <height>88</height>
+    <mass>20</mass>
+    <hair_color>brown</hair_color>
+    <skin_color>brown</skin_color>
+    <eye_color>brown</eye_color>
+    <birth_year>8</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Endor</homeworld>
+    <species>Ewok</species>
+    <films>list("Return of the Jedi")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Nien Nunb</name>
+    <height>160</height>
+    <mass>68</mass>
+    <hair_color>none</hair_color>
+    <skin_color>grey</skin_color>
+    <eye_color>black</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Sullust</homeworld>
+    <species>Sullustan</species>
+    <films>list("Return of the Jedi")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list("Millennium Falcon")</starships>
+  </record>
+  <record>
+    <name>Qui-Gon Jinn</name>
+    <height>193</height>
+    <mass>89</mass>
+    <hair_color>brown</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>blue</eye_color>
+    <birth_year>92</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <species>Human</species>
+    <films>list("The Phantom Menace")</films>
+    <vehicles>list("Tribubble bongo")</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Nute Gunray</name>
+    <height>191</height>
+    <mass>90</mass>
+    <hair_color>none</hair_color>
+    <skin_color>mottled green</skin_color>
+    <eye_color>red</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Cato Neimoidia</homeworld>
+    <species>Neimodian</species>
+    <films>list(c("Attack of the Clones", "The Phantom Menace", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Finis Valorum</name>
+    <height>170</height>
+    <hair_color>blond</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>blue</eye_color>
+    <birth_year>91</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Coruscant</homeworld>
+    <species>Human</species>
+    <films>list("The Phantom Menace")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Jar Jar Binks</name>
+    <height>196</height>
+    <mass>66</mass>
+    <hair_color>none</hair_color>
+    <skin_color>orange</skin_color>
+    <eye_color>orange</eye_color>
+    <birth_year>52</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Naboo</homeworld>
+    <species>Gungan</species>
+    <films>list(c("Attack of the Clones", "The Phantom Menace"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Roos Tarpals</name>
+    <height>224</height>
+    <mass>82</mass>
+    <hair_color>none</hair_color>
+    <skin_color>grey</skin_color>
+    <eye_color>orange</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Naboo</homeworld>
+    <species>Gungan</species>
+    <films>list("The Phantom Menace")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Rugor Nass</name>
+    <height>206</height>
+    <hair_color>none</hair_color>
+    <skin_color>green</skin_color>
+    <eye_color>orange</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Naboo</homeworld>
+    <species>Gungan</species>
+    <films>list("The Phantom Menace")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Ric Olié</name>
+    <height>183</height>
+    <hair_color>brown</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>blue</eye_color>
+    <homeworld>Naboo</homeworld>
+    <films>list("The Phantom Menace")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list("Naboo Royal Starship")</starships>
+  </record>
+  <record>
+    <name>Watto</name>
+    <height>137</height>
+    <hair_color>black</hair_color>
+    <skin_color>blue, grey</skin_color>
+    <eye_color>yellow</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Toydaria</homeworld>
+    <species>Toydarian</species>
+    <films>list(c("Attack of the Clones", "The Phantom Menace"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Sebulba</name>
+    <height>112</height>
+    <mass>40</mass>
+    <hair_color>none</hair_color>
+    <skin_color>grey, red</skin_color>
+    <eye_color>orange</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Malastare</homeworld>
+    <species>Dug</species>
+    <films>list("The Phantom Menace")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Quarsh Panaka</name>
+    <height>183</height>
+    <hair_color>black</hair_color>
+    <skin_color>dark</skin_color>
+    <eye_color>brown</eye_color>
+    <birth_year>62</birth_year>
+    <homeworld>Naboo</homeworld>
+    <films>list("The Phantom Menace")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Shmi Skywalker</name>
+    <height>163</height>
+    <hair_color>black</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>brown</eye_color>
+    <birth_year>72</birth_year>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <homeworld>Tatooine</homeworld>
+    <species>Human</species>
+    <films>list(c("Attack of the Clones", "The Phantom Menace"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Darth Maul</name>
+    <height>175</height>
+    <mass>80</mass>
+    <hair_color>none</hair_color>
+    <skin_color>red</skin_color>
+    <eye_color>yellow</eye_color>
+    <birth_year>54</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Dathomir</homeworld>
+    <species>Zabrak</species>
+    <films>list("The Phantom Menace")</films>
+    <vehicles>list("Sith speeder")</vehicles>
+    <starships>list("Scimitar")</starships>
+  </record>
+  <record>
+    <name>Bib Fortuna</name>
+    <height>180</height>
+    <hair_color>none</hair_color>
+    <skin_color>pale</skin_color>
+    <eye_color>pink</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Ryloth</homeworld>
+    <species>Twi'lek</species>
+    <films>list("Return of the Jedi")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Ayla Secura</name>
+    <height>178</height>
+    <mass>55</mass>
+    <hair_color>none</hair_color>
+    <skin_color>blue</skin_color>
+    <eye_color>hazel</eye_color>
+    <birth_year>48</birth_year>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <homeworld>Ryloth</homeworld>
+    <species>Twi'lek</species>
+    <films>list(c("Attack of the Clones", "The Phantom Menace", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Dud Bolt</name>
+    <height>94</height>
+    <mass>45</mass>
+    <hair_color>none</hair_color>
+    <skin_color>blue, grey</skin_color>
+    <eye_color>yellow</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Vulpter</homeworld>
+    <species>Vulptereen</species>
+    <films>list("The Phantom Menace")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Gasgano</name>
+    <height>122</height>
+    <hair_color>none</hair_color>
+    <skin_color>white, blue</skin_color>
+    <eye_color>black</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Troiken</homeworld>
+    <species>Xexto</species>
+    <films>list("The Phantom Menace")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Ben Quadinaros</name>
+    <height>163</height>
+    <mass>65</mass>
+    <hair_color>none</hair_color>
+    <skin_color>grey, green, yellow</skin_color>
+    <eye_color>orange</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Tund</homeworld>
+    <species>Toong</species>
+    <films>list("The Phantom Menace")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Mace Windu</name>
+    <height>188</height>
+    <mass>84</mass>
+    <hair_color>none</hair_color>
+    <skin_color>dark</skin_color>
+    <eye_color>brown</eye_color>
+    <birth_year>72</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Haruun Kal</homeworld>
+    <species>Human</species>
+    <films>list(c("Attack of the Clones", "The Phantom Menace", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Ki-Adi-Mundi</name>
+    <height>198</height>
+    <mass>82</mass>
+    <hair_color>white</hair_color>
+    <skin_color>pale</skin_color>
+    <eye_color>yellow</eye_color>
+    <birth_year>92</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Cerea</homeworld>
+    <species>Cerean</species>
+    <films>list(c("Attack of the Clones", "The Phantom Menace", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Kit Fisto</name>
+    <height>196</height>
+    <mass>87</mass>
+    <hair_color>none</hair_color>
+    <skin_color>green</skin_color>
+    <eye_color>black</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Glee Anselm</homeworld>
+    <species>Nautolan</species>
+    <films>list(c("Attack of the Clones", "The Phantom Menace", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Eeth Koth</name>
+    <height>171</height>
+    <hair_color>black</hair_color>
+    <skin_color>brown</skin_color>
+    <eye_color>brown</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Iridonia</homeworld>
+    <species>Zabrak</species>
+    <films>list(c("The Phantom Menace", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Adi Gallia</name>
+    <height>184</height>
+    <mass>50</mass>
+    <hair_color>none</hair_color>
+    <skin_color>dark</skin_color>
+    <eye_color>blue</eye_color>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <homeworld>Coruscant</homeworld>
+    <species>Tholothian</species>
+    <films>list(c("The Phantom Menace", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Saesee Tiin</name>
+    <height>188</height>
+    <hair_color>none</hair_color>
+    <skin_color>pale</skin_color>
+    <eye_color>orange</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Iktotch</homeworld>
+    <species>Iktotchi</species>
+    <films>list(c("The Phantom Menace", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Yarael Poof</name>
+    <height>264</height>
+    <hair_color>none</hair_color>
+    <skin_color>white</skin_color>
+    <eye_color>yellow</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Quermia</homeworld>
+    <species>Quermian</species>
+    <films>list("The Phantom Menace")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Plo Koon</name>
+    <height>188</height>
+    <mass>80</mass>
+    <hair_color>none</hair_color>
+    <skin_color>orange</skin_color>
+    <eye_color>black</eye_color>
+    <birth_year>22</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Dorin</homeworld>
+    <species>Kel Dor</species>
+    <films>list(c("Attack of the Clones", "The Phantom Menace", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list("Jedi starfighter")</starships>
+  </record>
+  <record>
+    <name>Mas Amedda</name>
+    <height>196</height>
+    <hair_color>none</hair_color>
+    <skin_color>blue</skin_color>
+    <eye_color>blue</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Champala</homeworld>
+    <species>Chagrian</species>
+    <films>list(c("Attack of the Clones", "The Phantom Menace"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Gregar Typho</name>
+    <height>185</height>
+    <mass>85</mass>
+    <hair_color>black</hair_color>
+    <skin_color>dark</skin_color>
+    <eye_color>brown</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Naboo</homeworld>
+    <species>Human</species>
+    <films>list("Attack of the Clones")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list("Naboo fighter")</starships>
+  </record>
+  <record>
+    <name>Cordé</name>
+    <height>157</height>
+    <hair_color>brown</hair_color>
+    <skin_color>light</skin_color>
+    <eye_color>brown</eye_color>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <homeworld>Naboo</homeworld>
+    <species>Human</species>
+    <films>list("Attack of the Clones")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Cliegg Lars</name>
+    <height>183</height>
+    <hair_color>brown</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>blue</eye_color>
+    <birth_year>82</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Tatooine</homeworld>
+    <species>Human</species>
+    <films>list("Attack of the Clones")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Poggle the Lesser</name>
+    <height>183</height>
+    <mass>80</mass>
+    <hair_color>none</hair_color>
+    <skin_color>green</skin_color>
+    <eye_color>yellow</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Geonosis</homeworld>
+    <species>Geonosian</species>
+    <films>list(c("Attack of the Clones", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Luminara Unduli</name>
+    <height>170</height>
+    <mass>56.2</mass>
+    <hair_color>black</hair_color>
+    <skin_color>yellow</skin_color>
+    <eye_color>blue</eye_color>
+    <birth_year>58</birth_year>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <homeworld>Mirial</homeworld>
+    <species>Mirialan</species>
+    <films>list(c("Attack of the Clones", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Barriss Offee</name>
+    <height>166</height>
+    <mass>50</mass>
+    <hair_color>black</hair_color>
+    <skin_color>yellow</skin_color>
+    <eye_color>blue</eye_color>
+    <birth_year>40</birth_year>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <homeworld>Mirial</homeworld>
+    <species>Mirialan</species>
+    <films>list("Attack of the Clones")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Dormé</name>
+    <height>165</height>
+    <hair_color>brown</hair_color>
+    <skin_color>light</skin_color>
+    <eye_color>brown</eye_color>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <homeworld>Naboo</homeworld>
+    <species>Human</species>
+    <films>list("Attack of the Clones")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Dooku</name>
+    <height>193</height>
+    <mass>80</mass>
+    <hair_color>white</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>brown</eye_color>
+    <birth_year>102</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Serenno</homeworld>
+    <species>Human</species>
+    <films>list(c("Attack of the Clones", "Revenge of the Sith"))</films>
+    <vehicles>list("Flitknot speeder")</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Bail Prestor Organa</name>
+    <height>191</height>
+    <hair_color>black</hair_color>
+    <skin_color>tan</skin_color>
+    <eye_color>brown</eye_color>
+    <birth_year>67</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Alderaan</homeworld>
+    <species>Human</species>
+    <films>list(c("Attack of the Clones", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Jango Fett</name>
+    <height>183</height>
+    <mass>79</mass>
+    <hair_color>black</hair_color>
+    <skin_color>tan</skin_color>
+    <eye_color>brown</eye_color>
+    <birth_year>66</birth_year>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Concord Dawn</homeworld>
+    <species>Human</species>
+    <films>list("Attack of the Clones")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Zam Wesell</name>
+    <height>168</height>
+    <mass>55</mass>
+    <hair_color>blonde</hair_color>
+    <skin_color>fair, green, yellow</skin_color>
+    <eye_color>yellow</eye_color>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <homeworld>Zolan</homeworld>
+    <species>Clawdite</species>
+    <films>list("Attack of the Clones")</films>
+    <vehicles>list("Koro-2 Exodrive airspeeder")</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Dexter Jettster</name>
+    <height>198</height>
+    <mass>102</mass>
+    <hair_color>none</hair_color>
+    <skin_color>brown</skin_color>
+    <eye_color>yellow</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Ojom</homeworld>
+    <species>Besalisk</species>
+    <films>list("Attack of the Clones")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Lama Su</name>
+    <height>229</height>
+    <mass>88</mass>
+    <hair_color>none</hair_color>
+    <skin_color>grey</skin_color>
+    <eye_color>black</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Kamino</homeworld>
+    <species>Kaminoan</species>
+    <films>list("Attack of the Clones")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Taun We</name>
+    <height>213</height>
+    <hair_color>none</hair_color>
+    <skin_color>grey</skin_color>
+    <eye_color>black</eye_color>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <homeworld>Kamino</homeworld>
+    <species>Kaminoan</species>
+    <films>list("Attack of the Clones")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Jocasta Nu</name>
+    <height>167</height>
+    <hair_color>white</hair_color>
+    <skin_color>fair</skin_color>
+    <eye_color>blue</eye_color>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <homeworld>Coruscant</homeworld>
+    <species>Human</species>
+    <films>list("Attack of the Clones")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Ratts Tyerell</name>
+    <height>79</height>
+    <mass>15</mass>
+    <hair_color>none</hair_color>
+    <skin_color>grey, blue</skin_color>
+    <eye_color>unknown</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Aleen Minor</homeworld>
+    <species>Aleena</species>
+    <films>list("The Phantom Menace")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>R4-P17</name>
+    <height>96</height>
+    <hair_color>none</hair_color>
+    <skin_color>silver, red</skin_color>
+    <eye_color>red, blue</eye_color>
+    <sex>none</sex>
+    <gender>feminine</gender>
+    <species>Droid</species>
+    <films>list(c("Attack of the Clones", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Wat Tambor</name>
+    <height>193</height>
+    <mass>48</mass>
+    <hair_color>none</hair_color>
+    <skin_color>green, grey</skin_color>
+    <eye_color>unknown</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Skako</homeworld>
+    <species>Skakoan</species>
+    <films>list("Attack of the Clones")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>San Hill</name>
+    <height>191</height>
+    <hair_color>none</hair_color>
+    <skin_color>grey</skin_color>
+    <eye_color>gold</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Muunilinst</homeworld>
+    <species>Muun</species>
+    <films>list("Attack of the Clones")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Shaak Ti</name>
+    <height>178</height>
+    <mass>57</mass>
+    <hair_color>none</hair_color>
+    <skin_color>red, blue, white</skin_color>
+    <eye_color>black</eye_color>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <homeworld>Shili</homeworld>
+    <species>Togruta</species>
+    <films>list(c("Attack of the Clones", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Grievous</name>
+    <height>216</height>
+    <mass>159</mass>
+    <hair_color>none</hair_color>
+    <skin_color>brown, white</skin_color>
+    <eye_color>green, yellow</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Kalee</homeworld>
+    <species>Kaleesh</species>
+    <films>list("Revenge of the Sith")</films>
+    <vehicles>list("Tsmeu-6 personal wheel bike")</vehicles>
+    <starships>list("Belbullab-22 starfighter")</starships>
+  </record>
+  <record>
+    <name>Tarfful</name>
+    <height>234</height>
+    <mass>136</mass>
+    <hair_color>brown</hair_color>
+    <skin_color>brown</skin_color>
+    <eye_color>blue</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Kashyyyk</homeworld>
+    <species>Wookiee</species>
+    <films>list("Revenge of the Sith")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Raymus Antilles</name>
+    <height>188</height>
+    <mass>79</mass>
+    <hair_color>brown</hair_color>
+    <skin_color>light</skin_color>
+    <eye_color>brown</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Alderaan</homeworld>
+    <species>Human</species>
+    <films>list(c("Revenge of the Sith", "A New Hope"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Sly Moore</name>
+    <height>178</height>
+    <mass>48</mass>
+    <hair_color>none</hair_color>
+    <skin_color>pale</skin_color>
+    <eye_color>white</eye_color>
+    <homeworld>Umbara</homeworld>
+    <films>list(c("Attack of the Clones", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Tion Medon</name>
+    <height>206</height>
+    <mass>80</mass>
+    <hair_color>none</hair_color>
+    <skin_color>grey</skin_color>
+    <eye_color>black</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <homeworld>Utapau</homeworld>
+    <species>Pau'an</species>
+    <films>list("Revenge of the Sith")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Finn</name>
+    <hair_color>black</hair_color>
+    <skin_color>dark</skin_color>
+    <eye_color>dark</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <species>Human</species>
+    <films>list("The Force Awakens")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Rey</name>
+    <hair_color>brown</hair_color>
+    <skin_color>light</skin_color>
+    <eye_color>hazel</eye_color>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <species>Human</species>
+    <films>list("The Force Awakens")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Poe Dameron</name>
+    <hair_color>brown</hair_color>
+    <skin_color>light</skin_color>
+    <eye_color>brown</eye_color>
+    <sex>male</sex>
+    <gender>masculine</gender>
+    <species>Human</species>
+    <films>list("The Force Awakens")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list("T-70 X-wing fighter")</starships>
+  </record>
+  <record>
+    <name>BB8</name>
+    <hair_color>none</hair_color>
+    <skin_color>none</skin_color>
+    <eye_color>black</eye_color>
+    <sex>none</sex>
+    <gender>masculine</gender>
+    <species>Droid</species>
+    <films>list("The Force Awakens")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Captain Phasma</name>
+    <hair_color>unknown</hair_color>
+    <skin_color>unknown</skin_color>
+    <eye_color>unknown</eye_color>
+    <films>list("The Force Awakens")</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(character(0))</starships>
+  </record>
+  <record>
+    <name>Padmé Amidala</name>
+    <height>165</height>
+    <mass>45</mass>
+    <hair_color>brown</hair_color>
+    <skin_color>light</skin_color>
+    <eye_color>brown</eye_color>
+    <birth_year>46</birth_year>
+    <sex>female</sex>
+    <gender>feminine</gender>
+    <homeworld>Naboo</homeworld>
+    <species>Human</species>
+    <films>list(c("Attack of the Clones", "The Phantom Menace", "Revenge of the Sith"))</films>
+    <vehicles>list(character(0))</vehicles>
+    <starships>list(c("H-type Nubian yacht", "Naboo star skiff", "Naboo fighter"))</starships>
+  </record>
+</root>

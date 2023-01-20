@@ -1,0 +1,102 @@
+---
+title: "Star Wars Review"
+output: html_notebook
+---
+
+# Learning Objectives:
+
+- Discuss this class!
+- Data Formats
+- Learn about notebooks
+- What is a data frame?
+    - Rows V columns
+    - What is a row of data?
+    - Data types
+- Tour of the RStudio Cloud interface
+- How to run a code chunk
+- How to render a notebook
+- Structure of a R command (function)
+
+
+# About this class
+
+- This should be a conversation.
+- What would you all like to get out of this class?
+- Project ideas
+- Would you like to:
+  - Use your own computers or use Posit Cloud?
+  - Would you like to pull the weekly projects or have me send them to you via Canvas?
+  - Installation of dependencies!
+  - https://epirhandbook.com/en/index.html
+
+
+# Data Formats:
+
+- [CSV](data/starwars.csv)
+- [Excel](data/starwars.xlsx)
+- [XML](data/starwars.xml)
+  - This is an example of a CCD: https://github.com/HL7/C-CDA-Examples/blob/master/Encounters/Outpatient%20Encounter%20Patient%20Disenrolled/Outpatient%20Encounter%20Patient%20Disenrolled(C-CDA2.1).xml
+- [YAML](data/starwars.yaml)
+
+
+# Setup
+
+```{r}
+rm(list = ls())
+library(tidyverse)
+library(ggrepel)
+data(starwars)
+```
+
+
+
+# Data
+
+```{r}
+starwars
+```
+
+- What does a single row of data represent?
+- What kinds of data types do we have?
+
+
+
+# Plotting
+
+## Species
+
+Using a bar plot, figure out which species is the most common in the Star Wars universe.
+
+
+## Scatter/regression
+
+Draw a scatter plot showing the relationship between mass (x) and height (y).
+
+```{r}
+
+```
+
+OK - We've got ONE REALLY heavy character. Can you filter out the outlier(s) to
+get chart we can really read/interpret? 
+
+```{r}
+
+```
+
+
+And can you add a regression line?
+
+```{r}
+
+```
+
+# Data Management
+
+## Grouping
+
+Can you give me the count of characters from each planet in Star Wars and tell
+me which planet has the most characters?
+
+```{r}
+
+```
